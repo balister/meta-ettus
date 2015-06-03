@@ -1,9 +1,2 @@
-This layer depends on:
-
-URI: git://git.openembedded.org/openembedded-core
-branch: master
-revision: HEAD
-
-Main layer maintainer: Philip Balister <philip@opensdr.com>
-
+DO NOT USE, see https://github.com/EttusResearch/meta-ettus for a maintained copy!
 
